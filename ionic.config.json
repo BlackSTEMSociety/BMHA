@@ -1,0 +1,8 @@
+{
+  "name": "BMHA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2e9940b7"
+}
